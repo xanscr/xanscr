@@ -38,5 +38,5 @@ ReVanced/Morphe (Android) e uBlock Origin (Web).
 
 ---
 
-Recrutadores: cada repositório acima pode ser consultado diretamente, incluindo a documentação
+Obs: cada repositório acima pode ser consultado diretamente, incluindo a documentação
 técnica e o histórico de alterações.
